@@ -1,1 +1,2 @@
 admin:admin
+s:password
